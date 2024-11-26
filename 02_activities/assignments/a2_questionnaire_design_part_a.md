@@ -16,7 +16,7 @@ Select one of the scenarios below and design a survey to meet the need(s) outlin
 
 # Your Changes
 
-The number of your chosen topic: `#1`
+The number of your chosen topic: `#1 `
 
 Describe the purpose of your survey:
 ```
@@ -37,11 +37,7 @@ Your 5-10 question survey:
 3. On a scale of 1 to 5, how satisfied were you with the support and development opportunities provided by the company?
 4. How would you rate the communication and support you received from your manager or supervisor?
 5. Do you feel that your workload was manageable, or did it contribute to your decision to leave?
-6. write your question here... (optional)
-7. write your question here... (optional)
-8. write your question here... (optional)
-9. write your question here... (optional)
-10. write your question here... (optional)
+
 ```
 
 ## Rubric
