@@ -19,6 +19,7 @@ Cleaning, Imputation, etc.	Some missing data imputed, outliers removed	Some miss
 Sources of Error	Non-sampling errors (non-response, measurement error, coverage error)	Non-sampling errors (self-selection bias, non-response)	Sampling bias due to small geographic sample, observational consistency issues
 Limitations, Known Biases	Underrepresentation of certain demographic groups, non-response bias	Bias from convenience sample, potential underrepresentation of certain groups	Small sample size, limited to one species, findings not generalizable to all nectar-feeding bats
 Citation	Statistics Canada. (2018). Canadian General Social Survey on Giving, Volunteering and Participating, 2018 (Cycle 33)	Stephenson, L., Harell, A., Rubenson, D., & Loewen, P. (2019). Canadian Election Study Online Survey, 2019	Clare, E. L., et al. (2018). *Trophic niche flexibility in Glossophaga soricina: how nectar seeker
+
 ## Criteria
 
 |Criteria|Complete|Incomplete|
