@@ -30,6 +30,8 @@ write your answer here...
 
 The target population for this survey consists of current and former employees who have held entry- and lower-level positions in various departments, including customer support, technical support, and administrative roles. The sampling frame will be drawn from the company’s HR database, which includes a list of employees who have recently left or are still employed in these positions. The sampling units will be individual employees, both current and former, and a stratified random sampling strategy will be employed to ensure diverse representation across departments.
 
+The observational units are the individual survey respondents, as data will be collected directly from these employees through their responses to the survey.
+
 Your 5-10 question survey:
 ```
 1. How long have you worked in your current (or most recent) position at the company?
